@@ -3,3 +3,11 @@
 
 
 }
+
+/* sm device border */
+.sm-dv-border{
+    border-bottom: 1px solid #179800;
+}
+.offer-card-bg{
+    background: linear-gradient(130deg, rgba(90,221,66,1) 0%, rgba(239,235,227,1) 100%);
+}
